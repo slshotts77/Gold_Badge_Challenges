@@ -1,9 +1,0 @@
-C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Gold_Badge_Challenges\Challenge_Six_Console\bin\Debug\Challenge_Six_Console.dll
-C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Gold_Badge_Challenges\Challenge_Six_Console\bin\Debug\Challenge_Six_Console.pdb
-C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Gold_Badge_Challenges\Challenge_Six_Console\bin\Debug\Challenge_Six_Repository.dll
-C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Gold_Badge_Challenges\Challenge_Six_Console\bin\Debug\Challenge_Six_Repository.pdb
-C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Gold_Badge_Challenges\Challenge_Six_Console\obj\Debug\Challenge_Six_Console.csprojAssemblyReference.cache
-C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Gold_Badge_Challenges\Challenge_Six_Console\obj\Debug\Challenge_Six_Console.csproj.CoreCompileInputs.cache
-C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Gold_Badge_Challenges\Challenge_Six_Console\obj\Debug\Challenge_Six_Console.csproj.CopyComplete
-C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Gold_Badge_Challenges\Challenge_Six_Console\obj\Debug\Challenge_Six_Console.dll
-C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Gold_Badge_Challenges\Challenge_Six_Console\obj\Debug\Challenge_Six_Console.pdb
