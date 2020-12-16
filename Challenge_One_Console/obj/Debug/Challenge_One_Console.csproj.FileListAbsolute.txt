@@ -1,0 +1,20 @@
+C:\Users\Steve\source\repos\Gold_Badge_Challenges\Challenge_One_Console\obj\Debug\Challenge_One_Console.csprojAssemblyReference.cache
+C:\Users\Steve\source\repos\Gold_Badge_Challenges\Challenge_One_Console\obj\Debug\Challenge_One_Console.csproj.CoreCompileInputs.cache
+C:\Users\Steve\source\repos\Gold_Badge_Challenges\Challenge_One_Console\bin\Debug\Challenge_One_Console.exe.config
+C:\Users\Steve\source\repos\Gold_Badge_Challenges\Challenge_One_Console\bin\Debug\Challenge_One_Console.exe
+C:\Users\Steve\source\repos\Gold_Badge_Challenges\Challenge_One_Console\bin\Debug\Challenge_One_Console.pdb
+C:\Users\Steve\source\repos\Gold_Badge_Challenges\Challenge_One_Console\bin\Debug\Challenge_One_Repository.dll
+C:\Users\Steve\source\repos\Gold_Badge_Challenges\Challenge_One_Console\bin\Debug\Challenge_One_Repository.pdb
+C:\Users\Steve\source\repos\Gold_Badge_Challenges\Challenge_One_Console\obj\Debug\Challenge_One_Console.csproj.CopyComplete
+C:\Users\Steve\source\repos\Gold_Badge_Challenges\Challenge_One_Console\obj\Debug\Challenge_One_Console.exe
+C:\Users\Steve\source\repos\Gold_Badge_Challenges\Challenge_One_Console\obj\Debug\Challenge_One_Console.pdb
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Gold_Badge_Challenges\Challenge_One_Console\bin\Debug\Challenge_One_Console.exe.config
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Gold_Badge_Challenges\Challenge_One_Console\bin\Debug\Challenge_One_Console.exe
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Gold_Badge_Challenges\Challenge_One_Console\bin\Debug\Challenge_One_Console.pdb
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Gold_Badge_Challenges\Challenge_One_Console\bin\Debug\Challenge_One_Repository.dll
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Gold_Badge_Challenges\Challenge_One_Console\bin\Debug\Challenge_One_Repository.pdb
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Gold_Badge_Challenges\Challenge_One_Console\obj\Debug\Challenge_One_Console.csprojAssemblyReference.cache
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Gold_Badge_Challenges\Challenge_One_Console\obj\Debug\Challenge_One_Console.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Gold_Badge_Challenges\Challenge_One_Console\obj\Debug\Challenge_One_Console.csproj.CopyComplete
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Gold_Badge_Challenges\Challenge_One_Console\obj\Debug\Challenge_One_Console.exe
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Gold_Badge_Challenges\Challenge_One_Console\obj\Debug\Challenge_One_Console.pdb
