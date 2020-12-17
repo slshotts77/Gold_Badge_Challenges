@@ -13,7 +13,7 @@ namespace Challenge_One_Test
     {
         // Declaring  
         private CafeRepository _repo;   // MealRepository is now an object and its name is _repo
-        private MealItems _content;  // Meal is now an objst and its name is _mealInformation
+        private MealItems _content;  // Meal is now an objst and its name is _mealInformation 
 
         // Assign Value
         [TestInitialize]
