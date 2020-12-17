@@ -36,9 +36,11 @@ namespace Challenge_One_Test
 
             // Act --> GET/Run the code we want to test
             repository.AddMealItems(item);
+            List<MealItems> mealItems = repository.GetMeals();
             MealItems contentFromDirectory = repository.GetItemByName("All You Can Eat");
 
             // Assert --> Use the assert class to verify the expected outcome
+            Assert.IsNotNull(mealItems);
             Assert.IsNotNull(contentFromDirectory);
         }
 
