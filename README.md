@@ -5,8 +5,11 @@
 ## Your short description
 - I’m currently working on - Gold_Badge_Challenges
     a. Challenge - 01 - Cafe
+    <br />
     b. Challenge - 06 - GreenPlan
+    <br />
     c. Challenge - 02 - Claims
+    <br />
 - I’m currently learning - C#
 
 [![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=Steve&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
