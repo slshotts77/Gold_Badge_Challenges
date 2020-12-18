@@ -3,7 +3,10 @@
 
 [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 ## Your short description
-- I’m currently working on - Gold_Badge_Challengees
+- I’m currently working on - Gold_Badge_Challenges
+    a. Challenge - 01 - Cafe
+    b. Challenge - 06 - GreenPlan
+    c. Challenge - 02 - Claims
 - I’m currently learning - C#
 
 [![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=Steve&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
@@ -13,4 +16,3 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
-[linkedin]: https://www.linkedin.com/ "Currently I do not have Linkedin
