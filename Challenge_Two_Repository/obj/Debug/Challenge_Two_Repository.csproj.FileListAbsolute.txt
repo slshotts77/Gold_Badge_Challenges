@@ -1,0 +1,7 @@
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Gold_Badge_Challenges\Challenge_Two_Repository\obj\Debug\Challenge_Two_Repository.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Gold_Badge_Challenges\Challenge_Two_Repository\obj\Debug\Challenge_Two_Repository.csprojAssemblyReference.cache
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Gold_Badge_Challenges\Challenge_Two_Repository\bin\Debug\Challenge_Two_Repository.dll.config
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Gold_Badge_Challenges\Challenge_Two_Repository\bin\Debug\Challenge_Two_Repository.dll
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Gold_Badge_Challenges\Challenge_Two_Repository\bin\Debug\Challenge_Two_Repository.pdb
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Gold_Badge_Challenges\Challenge_Two_Repository\obj\Debug\Challenge_Two_Repository.dll
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Gold_Badge_Challenges\Challenge_Two_Repository\obj\Debug\Challenge_Two_Repository.pdb
