@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using Challenge_Six_Repository;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
@@ -31,10 +32,10 @@ namespace Challenge_Six_Test
 
             // Act
             library.AddCar(item);
-            CarInfo contentFromDirectory = library.GetInfoByCarType("Model S");
+            List<CarInfo> list = library.GetListOfAllCars();
 
             // Assert
-            Assert.IsNotNull(contentFromDirectory);
+            Assert.IsTrue(list.Contains(item));
         }
 
         [TestMethod]
@@ -42,34 +43,19 @@ namespace Challenge_Six_Test
         {
             // Arrange
             CarInfo newInformation = _carInfo;
+            newInformation.CarName = "Model X";
 
             // Act
             bool updateResult = _greenPlanLibary.UpdateExistingCarInfo("Model S", newInformation);
 
             // Assert
-            Assert.IsTrue(updateResult);
-        }
-
-        [DataTestMethod]
-        [DataRow("Model S", true)]
-        [DataRow("Pinto", false)]
-        public void UpdateCarInfo_ShouldMatchGivenBool(string originalCarName, bool shouldUpdate)
-        {
-
-            // Arrange
-            CarInfo newCarInfo = _carInfo;
-
-            // Act
-            bool updateResult = _greenPlanLibary.UpdateExistingCarInfo(originalCarName, newCarInfo);
-
-            // Assert
-            Assert.AreEqual(shouldUpdate, updateResult);
+            Assert.IsTrue(_carInfo.CarName == newInformation.CarName);
         }
 
         [TestMethod]
         public void DeleteContent_ShouldReturnTrue()
         {
-            // Arrange --> THhere is none
+            // Arrange --> There is none
 
             // Act
             bool deleteResult = _greenPlanLibary.RemoveCarFromList(_carInfo.CarName);

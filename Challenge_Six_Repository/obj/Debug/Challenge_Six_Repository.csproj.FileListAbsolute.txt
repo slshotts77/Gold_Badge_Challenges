@@ -1,6 +1,6 @@
 C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Gold_Badge_Challenges\Challenge_Six_Repository\bin\Debug\Challenge_Six_Repository.dll
 C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Gold_Badge_Challenges\Challenge_Six_Repository\bin\Debug\Challenge_Six_Repository.pdb
-C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Gold_Badge_Challenges\Challenge_Six_Repository\obj\Debug\Challenge_Six_Repository.csprojAssemblyReference.cache
 C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Gold_Badge_Challenges\Challenge_Six_Repository\obj\Debug\Challenge_Six_Repository.csproj.CoreCompileInputs.cache
 C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Gold_Badge_Challenges\Challenge_Six_Repository\obj\Debug\Challenge_Six_Repository.dll
 C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Gold_Badge_Challenges\Challenge_Six_Repository\obj\Debug\Challenge_Six_Repository.pdb
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Gold_Badge_Challenges\Challenge_Six_Repository\obj\Debug\Challenge_Six_Repository.csprojAssemblyReference.cache
